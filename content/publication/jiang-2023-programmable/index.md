@@ -29,5 +29,8 @@ featured: true
 # - name: ""
 #   url: ""
 url_pdf: https://www.nature.com/articles/s41587-022-01534-5
-
+image:
+  caption: 'Image credit: (feature.jpg)'
+  focal_point: ''
+  preview_only: false
 ---
