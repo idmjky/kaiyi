@@ -78,7 +78,7 @@ work:
     date_start: 2024-09-01
     date_end: ''
 
-
+---
 ## About Me
 
 I am currently a Ph.D. candidate at Massachusetts Institute of Technology (MIT) Biological Engineering. I am fortunate to be advised by Dr. Jonathan Gootenberg, Dr. Omar Abudayyeh, and Dr. Michael Birnbaum. Previously, I received my B.S. (Summa cum laude) in biomedical engineering from Rice University in 2021. At Rice, I was fortunate to work with Dr. Caleb Bashor and Dr. Gang Bao. I was an intern at Regeneron Pharmaceutical’s therapeutic antibody group in 2018. I am broadly interested in harnessing biological diversity to discover novel reprogrammable systems and using machine learning to engineer these systems for programmable cell control and delivery. With these sets of tools, I hope to perform in vivo recording and lineage to understand novel biology behind disease and engineer next-gen gene and cell therapy for autoimmune disease and cancer.
