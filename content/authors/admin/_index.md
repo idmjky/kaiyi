@@ -3,7 +3,7 @@
 title: Kaiyi Jiang
 
 # Name pronunciation (optional)
-name_pronunciation: Kai yi Jiang
+name_pronunciation: 姜凯议
 
 # Full name (for SEO)
 first_name: Kaiyi
@@ -71,7 +71,7 @@ work:
     summary: |2-
       - Investigated molecular mechanism of adjuvant in eliciting proper immune response
       - Enhanced production of monoclonal antibody for a preclinical breast cancer target
-  - position: Advisor
+  - position: Consultant
     company_name: Doppler Bio
     company_url: ''
     company_logo: ''
