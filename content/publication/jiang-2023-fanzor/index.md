@@ -22,7 +22,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Science Advances"
-publication_short: ""
+publication_short: "Science Advances"
 
 abstract: Programmable RNA-guided DNA nucleases perform numerous roles in prokaryotes, but the extent of their spread outside prokaryotes is unclear. Fanzors, the eukaryotic homolog of prokaryotic TnpB proteins, have been detected in genomes of eukaryotes and large viruses, but their activity and functions in eukaryotes remain unknown. Here, we characterize Fanzors as RNA-programmable DNA endonucleases, using biochemical and cellular evidence. We found diverse Fanzors that frequently associate with various eukaryotic transposases. Reconstruction of Fanzors evolution revealed multiple radiations of RuvC-containing TnpB homologs in eukaryotes. Fanzor genes captured introns and proteins acquired nuclear localization signals, indicating extensive, long-term adaptation to functioning in eukaryotic cells. Fanzor nucleases contain a rearranged catalytic site of the RuvC domain, similar to a distinct subset of TnpBs, and lack collateral cleavage activity. We demonstrate that Fanzors can be harnessed for genome editing in human cells, highlighting the potential of these widespread eukaryotic RNA-guided nucleases for biotechnology applications.
 
