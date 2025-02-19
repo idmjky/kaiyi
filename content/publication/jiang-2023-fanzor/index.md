@@ -1,5 +1,5 @@
 ---
-title: "Programmable RNA-guided DNA endonucleases are widespread in eukaryotes and their viruses"
+title: "Programmable RNA-guided DNA endonucleases are widespread in eukaryotes and their viruses [Science Advances]"
 authors:
 - Kaiyi Jiang*
 - Justin Lim*
