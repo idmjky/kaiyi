@@ -1,6 +1,5 @@
 ---
-title: RNA-triggered protein cleavage and cell growth arrest by the type III-E CRISPR [Science]
-  nuclease-protease
+title: RNA-triggered protein cleavage and cell growth arrest by the type III-E CRISPR nuclease-protease [Science]
 authors:
 - Kazuki Kato*
 - Sae Okazaki*
