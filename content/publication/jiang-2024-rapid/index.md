@@ -1,5 +1,5 @@
 ---
-title: Rapid in silico directed evolution by a protein language model with EVOLVEpro
+title: Rapid in silico directed evolution by a protein language model with EVOLVEpro [Science]
 authors:
 - Kaiyi Jiang
 - Zhaoqing Yan
