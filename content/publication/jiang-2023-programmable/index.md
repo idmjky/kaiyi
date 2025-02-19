@@ -1,5 +1,5 @@
 ---
-title: Programmable eukaryotic protein synthesis with RNA sensors by harnessing ADAR
+title: Programmable eukaryotic protein synthesis with RNA sensors by harnessing ADAR  [Nature Biotechnology]
 authors:
 - Kaiyi Jiang
 - Jeremy Koob
