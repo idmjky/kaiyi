@@ -40,7 +40,7 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kaiyi-jiang-ba8744140/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&authuser=1&user=dZxr2QQAAAAJ
+    url: https://scholar.google.com/citations?user=DxgDNVQAAAAJ&hl=en
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-9569-5225
 
