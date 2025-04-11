@@ -71,6 +71,13 @@ work:
     summary: |2-
       - Developing immunogenicity prediction and engineering model for peptide/antibody drug
       - Developing mRNA engineering foundation model
+  
+  - position: Consultant
+    company_name: Doppler Bio
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 2025-04-01
         
   - position: Therapeutic Antibody Intern
     company_name: Regeneron Pharmaceuticals
@@ -81,14 +88,9 @@ work:
     summary: |2-
       - Investigated molecular mechanism of adjuvant in eliciting proper immune response
       - Enhanced production of monoclonal antibody for a preclinical breast cancer target
-  - position: Consultant
-    company_name: Doppler Bio
-    company_url: ''
-    company_logo: ''
-    date_start: 2024-09-01
-    date_end: ''
 
 ---
 ## About Me
 
 I am currently the inargural Amgen Science Fellow working with Dr. Howard Chang. At Amgen, I lead a small team in developing models to understand, predict and engineer immunogenicity of peptide/antibody drugs. Previously, I did my Ph.D. at Massachusetts Institute of Technology (MIT) Biological Engineering. I am fortunate to be advised by Dr. Jonathan Gootenberg, Dr. Omar Abudayyeh, and Dr. Michael Birnbaum. I received my B.S. (Summa cum laude) in biomedical engineering from Rice University in 2021. At Rice, I was fortunate to work with Dr. Caleb Bashor and Dr. Gang Bao. I was an intern at Regeneron Pharmaceutical’s therapeutic antibody group in 2018. I am broadly interested in harnessing biological diversity to discover novel reprogrammable systems and using machine learning to engineer these systems for programmable cell control and delivery. With these sets of tools, I hope to perform in vivo recording and lineage to understand novel biology behind disease and engineer next-gen gene and cell therapy for autoimmune disease and cancer.
+I will join Princeotn University's Omenn-Darling Bioengineering Institute (ODBI) in June 2026 as an Assistant Professor. 
