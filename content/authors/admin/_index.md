@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:kaiyi@mit.edu'
+    url: 'mailto:kj6118@princeton.edu'
     label: E-mail Me
   - icon: brands/x
     url: https://x.com/idmjky
@@ -62,6 +62,16 @@ education:
       Summa Cum Laude
       
 work:
+  - position: Amgen Science Fellow
+    company_name: Amgen 
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-05-01
+    date_end: 2026-05-01
+    summary: |2-
+      - Developing immunogenicity prediction and engineering model for peptide/antibody drug
+      - Developing mRNA engineering foundation model
+        
   - position: Therapeutic Antibody Intern
     company_name: Regeneron Pharmaceuticals
     company_url: ''
@@ -81,4 +91,4 @@ work:
 ---
 ## About Me
 
-I am currently a Ph.D. candidate at Massachusetts Institute of Technology (MIT) Biological Engineering. I am fortunate to be advised by Dr. Jonathan Gootenberg, Dr. Omar Abudayyeh, and Dr. Michael Birnbaum. Previously, I received my B.S. (Summa cum laude) in biomedical engineering from Rice University in 2021. At Rice, I was fortunate to work with Dr. Caleb Bashor and Dr. Gang Bao. I was an intern at Regeneron Pharmaceutical’s therapeutic antibody group in 2018. I am broadly interested in harnessing biological diversity to discover novel reprogrammable systems and using machine learning to engineer these systems for programmable cell control and delivery. With these sets of tools, I hope to perform in vivo recording and lineage to understand novel biology behind disease and engineer next-gen gene and cell therapy for autoimmune disease and cancer.
+I am currently the inargural Amgen Science Fellow working with Dr. Howard Chang. At Amgen, I lead a small team in developing models to understand, predict and engineer immunogenicity of peptide/antibody drugs. Previously, I did my Ph.D. at Massachusetts Institute of Technology (MIT) Biological Engineering. I am fortunate to be advised by Dr. Jonathan Gootenberg, Dr. Omar Abudayyeh, and Dr. Michael Birnbaum. I received my B.S. (Summa cum laude) in biomedical engineering from Rice University in 2021. At Rice, I was fortunate to work with Dr. Caleb Bashor and Dr. Gang Bao. I was an intern at Regeneron Pharmaceutical’s therapeutic antibody group in 2018. I am broadly interested in harnessing biological diversity to discover novel reprogrammable systems and using machine learning to engineer these systems for programmable cell control and delivery. With these sets of tools, I hope to perform in vivo recording and lineage to understand novel biology behind disease and engineer next-gen gene and cell therapy for autoimmune disease and cancer.
